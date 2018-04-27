@@ -4,9 +4,6 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1300000000aaaaaaaaa1" name="Биоинформатика">
-   <recordtable>
-    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-   </recordtable>
    <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524788553077cquqmxv" name="R">
     <recordtable>
      <record id="1524788972j23vqzxar4" name="разное" author="" url="" tags="" ctime="20180427082932" dir="15247889722v0a3jgyvh" file="text.html"/>
@@ -24,6 +21,7 @@
      <record id="15247889460cr83qfc15" name="magicblast" author="" url="" tags="" ctime="20180427082906" dir="1524788946p9zduxxt5b" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524837098qypj9wsgtg" name="Прочее"/>
   </node>
   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524792357gbawzy2x7f" name="Программирование">
    <node crypt="" id="152479243350dgccuupi" name="Git">
