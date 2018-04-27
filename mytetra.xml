@@ -25,5 +25,12 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524792357gbawzy2x7f" name="Программирование">
+   <node crypt="" id="152479243350dgccuupi" name="Git">
+    <recordtable>
+     <record id="15247924965fld5id3xg" name="разное" author="" url="" tags="" ctime="20180427092816" dir="1524792496phj2dvun5j" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
