@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" icon="/Swift/color_swift_Testtube.svg" id="1300000000aaaaaaaaa1" name="Биоинформатика">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524788553077cquqmxv" name="R">
+    <recordtable>
+     <record id="1524788972j23vqzxar4" name="разное" author="" url="" tags="" ctime="20180427082932" dir="15247889722v0a3jgyvh" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="152478858204m9qlm54d" name="samtools">
+    <recordtable>
+     <record id="1524788996mal7un3gor" name="общее" author="" url="" tags="" ctime="20180427082956" dir="1524788996dt1g4rghhn" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Swift/color_swift_Bill.svg" id="1524788594uxjeu4imo4" name="алгоритмы исследования"/>
+   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="152478868671gthxt1gv" name="метагеномика">
+    <recordtable>
+     <record id="1524788750mhkizmwikq" name="поиск 16S РНК" author="" url="" tags="метагеномика" ctime="20180427082550" dir="1524788750f8z1vd9ucy" file="text.html"/>
+     <record id="15247889460cr83qfc15" name="magicblast" author="" url="" tags="" ctime="20180427082906" dir="1524788946p9zduxxt5b" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
