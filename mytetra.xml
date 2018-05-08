@@ -38,6 +38,16 @@
      <record id="15247924965fld5id3xg" name="разное" author="" url="" tags="" ctime="20180427092816" dir="1524792496phj2dvun5j" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="15257963675wk7oam5jv" name="Исходные коды">
+    <recordtable>
+     <record id="1525796391jyfdl15108" name="coord2circos" author="" url="" tags="" ctime="20180509001951" dir="15257963917emr1q1ov0" file="text.html"/>
+     <record id="1525796414llp37eptij" name="bsatool" author="" url="" tags="" ctime="20180509002015" dir="1525796414py0kb1mxjm" file="text.html"/>
+     <record id="15257967199eewbluqa6" name="codon" author="" url="" tags="" ctime="20180509002519" dir="1525796719pop57ie0xb" file="text.html"/>
+     <record id="15257967432auldc0n85" name="gene" author="" url="" tags="" ctime="20180509002543" dir="1525796743kqnymzzg59" file="text.html"/>
+     <record id="1525796766hgebh51jpz" name="tang" author="" url="" tags="" ctime="20180509002606" dir="15257967666ar1v5dw81" file="text.html"/>
+     <record id="1525796786ct6v1mb3e8" name="amino" author="" url="" tags="" ctime="20180509002626" dir="1525796786eoesgbyxvn" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
