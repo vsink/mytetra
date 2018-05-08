@@ -14,7 +14,11 @@
      <record id="1524788996mal7un3gor" name="общее" author="" url="" tags="" ctime="20180427082956" dir="1524788996dt1g4rghhn" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" icon="/Swift/color_swift_Bill.svg" id="1524788594uxjeu4imo4" name="алгоритмы исследования"/>
+   <node crypt="" icon="/Swift/color_swift_Bill.svg" id="1524788594uxjeu4imo4" name="алгоритмы исследования">
+    <recordtable>
+     <record id="15257550424jwls4mjr1" name="анализ данных при помощи magicblast" author="" url="" tags="" ctime="20180508125042" dir="1525755042618npw2s0s" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="152478868671gthxt1gv" name="метагеномика">
     <recordtable>
      <record id="1524788750mhkizmwikq" name="поиск 16S РНК" author="" url="" tags="метагеномика" ctime="20180427082550" dir="1524788750f8z1vd9ucy" file="text.html"/>
