@@ -31,6 +31,11 @@
     </recordtable>
    </node>
    <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524837098qypj9wsgtg" name="Прочее"/>
+   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1526808609g0l26halkc" name="bedtools">
+    <recordtable>
+     <record id="15268086904ghrospztj" name="что и как я делал" author="" url="" tags="" ctime="20180520173130" dir="1526808690fjhk9mhgek" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" icon="/Swift/color_swift_Calculator.svg" id="1524792357gbawzy2x7f" name="Программирование">
    <node crypt="" id="152479243350dgccuupi" name="Git">
