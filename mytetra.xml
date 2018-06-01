@@ -54,5 +54,12 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" icon="/Swift/color_swift_Beer.svg" id="1527751187iexlp0myvq" name="Linux">
+   <node crypt="" icon="/Swift/color_swift_Gentleman.svg" id="1527751213asbqq94lr2" name="Трюки">
+    <recordtable>
+     <record id="15277512646dm3nxp8my" name="копировать файлы из папки А в Б по списку" author="" url="" tags="" ctime="20180531152104" dir="15277512642e18st3tet" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
