@@ -53,6 +53,12 @@
      <record id="1525796766hgebh51jpz" name="tang" author="" url="" tags="" ctime="20180509002606" dir="15257967666ar1v5dw81" file="text.html"/>
      <record id="1525796786ct6v1mb3e8" name="amino" author="" url="" tags="" ctime="20180509002626" dir="1525796786eoesgbyxvn" file="text.html"/>
     </recordtable>
+    <node crypt="" id="1528265346ggmzi03tg7" name="BASH">
+     <recordtable>
+      <record id="1528265375unadvaufp8" name="getShareFiles -i FILE FROM COMM сравнения" author="" url="" tags="" ctime="20180606140935" dir="15282653756o2s4187uo" file="text.html"/>
+      <record id="15282655208ajzcyag2s" name="getShare" author="" url="" tags="" ctime="20180606141200" dir="15282655209tbtrgr5as" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="" icon="/Swift/color_swift_Beer.svg" id="1527751187iexlp0myvq" name="Linux">
