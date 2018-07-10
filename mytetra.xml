@@ -66,6 +66,7 @@
    <node crypt="" icon="/Swift/color_swift_Gentleman.svg" id="1527751213asbqq94lr2" name="Трюки">
     <recordtable>
      <record id="15277512646dm3nxp8my" name="копировать файлы из папки А в Б по списку" author="" url="" tags="" ctime="20180531152104" dir="15277512642e18st3tet" file="text.html"/>
+     <record id="153122538541vdmeurks" name="scp" author="" url="" tags="" ctime="20180710202305" dir="1531225385slu90wn555" file="text.html"/>
     </recordtable>
    </node>
   </node>
