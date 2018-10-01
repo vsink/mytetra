@@ -68,9 +68,10 @@
      <record id="153122538541vdmeurks" name="scp" author="" url="" tags="" ctime="20180710202305" dir="1531225385slu90wn555" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1538364997im7ouewjee" name="Прочее">
+   <node crypt="" icon="/Flat/color_icons8_flat_idea.svg" id="1538364997im7ouewjee" name="Прочее">
     <recordtable>
      <record id="1529414694sk76nzft82" name="encfs" author="" url="" tags="" ctime="20181001113646" dir="1529414694fx2xv7rin2" file="text.html"/>
+     <record id="1538405165zkeow7i09l" name="cистема имен и упорядочивание информации" author="" url="" tags="" ctime="20181001224605" dir="1538405165gdgueel807" file="text.html"/>
     </recordtable>
    </node>
   </node>
