@@ -22,6 +22,11 @@
      <record id="15282646926si6qqp91x" name="SNP" author="" url="" tags="" ctime="20180606135812" dir="1528264692qikv080okp" file="text.html"/>
      <record id="1541658059a9bsb5t0gi" name="что я делал для LAMP анализа" author="" url="" tags="" ctime="20181108142059" dir="1541658059qkvvnhzs96" file="text.html"/>
     </recordtable>
+    <node crypt="" id="1541681114b2zlqmbeie" name="BLAST">
+     <recordtable>
+      <record id="15416811546v4cy89bss" name="Проверка праймеров и аннотирование их" author="" url="" tags="" ctime="20181108204554" dir="1541681154f0qvlwhcqf" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" icon="/Flat/color_icons8_flat_genealogy.svg" id="152478868671gthxt1gv" name="метагеномика">
     <recordtable>
